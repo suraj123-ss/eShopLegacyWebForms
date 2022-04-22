@@ -1,0 +1,9 @@
+{
+	"name": "ADF-suraj-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eeea9ce6-90c8-4003-beab-5301ebde92d4",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
